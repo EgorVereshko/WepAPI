@@ -5,6 +5,6 @@
 - products.json (результат)
 
 Практика Работа с БД при помощи SQLAlchemy:
-- api.py (апи)
-- parser.py (парсер)
-- parser.db (БД)
+- api/api.py (апи)
+- api/parser.py (парсер)
+- aoi/parser.db (БД)
