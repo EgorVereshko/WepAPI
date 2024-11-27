@@ -7,4 +7,4 @@
 Практика Работа с БД при помощи SQLAlchemy:
 - api/api.py (апи)
 - api/parser.py (парсер)
-- aoi/parser.db (БД)
+- api/parser.db (БД)
